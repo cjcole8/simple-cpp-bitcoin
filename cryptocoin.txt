@@ -1,0 +1,1 @@
+Debug/Blockchain.cpp.o Debug/main.cpp.o Debug/sha256.cpp.o Debug/Block.cpp.o   
